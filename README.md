@@ -97,7 +97,7 @@ The if...else statement executes some code if a condition is true and another co
 <?php  
  $age = 57;
  if ($age < 18) {echo 'You are NOT allowed to drive car 🚘 in Denmark';}
- elseif ($age >= 18) {echo 'You are allowed to drive car 🚘 in Denmark';}
+ elseif ($age >= 18 AND $age < 70) {echo 'You are allowed to drive car 🚘 in Denmark';}
  else {echo 'It might be a good idea to have a medical check-up by your doctor if you want to continue driving car';}
  
 ?>
