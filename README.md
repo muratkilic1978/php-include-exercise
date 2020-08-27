@@ -76,7 +76,7 @@ Case-sensitive means if you, for example, create a PHP variable (eg. *$Firstname
 ```php
 <?php  
  $firstname = "Joe";
- $Firstname = "Kelly"
+ $Firstname = "Kelly";
  echo $firstname // output Joe
  echo $Firstname // output Kelly
 ?>
