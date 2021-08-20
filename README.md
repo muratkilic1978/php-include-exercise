@@ -10,7 +10,7 @@ In this little PHP exercise, you will learn to use simple PHP commands. Try to s
 This is a quick introduction to the programming language PHP
 
 ## Create a new PHP-file
-Go and open your favorite text-editor (eg. Brackets). Create a new file and save it as **index.php**
+Go and open your favorite text-editor (eg. Visual Studio Code or Brackets). Create a new file and save it as **index.php**
 
 ## Write your first PHP code
 
