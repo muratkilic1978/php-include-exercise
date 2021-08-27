@@ -1,5 +1,5 @@
 # PHP exercise
-In this little PHP exercise, you will learn to use simple PHP commands. Try to see if you can accomplish this uncompleted PHP exercise. For further help to accomplish this exercise I've created a quick introduction to important  PHP commands that you will use in this exercise
+In this little PHP exercise, you will learn to use simple PHP commands. For further help to accomplish this exercise I've created a quick introduction to important  PHP commands that you will use in this exercise.
 1. Download this repository
 2. Open **index.php** file with your editor
 3. I've inserted PHP comments with instructions that you should try to solve
