@@ -1,13 +1,14 @@
 # PHP exercise
-In this little PHP exercise, you will learn to use simple PHP commands. There are mainly two parts that you need to complete. In **PART 1** you will learn simple PHP commands that you will use later in **PART 2**. In **PART 2** you need to download the repository and try solve.
+In this little PHP exercise, you will learn to use simple PHP commands. There are mainly two parts that you need to accomplish. In **PART 1** you will learn simple PHP commands that you will use later in **PART 2**. In **PART 2** you need to download the repository and then try fix PHP problems inside each php-file.
 
 **PART 1**
 1. Go through the Quick PHP introduction below
+
 **PART 2**
-2. After completing step 1 - go and download this repository
-3. Next go and open **index.php** file with your editor (vscode or brackets)
-4. I've inserted PHP comments with instructions inside each PHP file that you should try to solve
-5. Repeat **step 4** for all the other PHP files
+1. After completing step 1 in part 1 you will have to download this repository
+2. Next go and open the **index.php** file with your editor (vscode or brackets)
+3. I've inserted PHP comments with instructions inside each PHP file that you should try fix
+4. 4. Repeat **step 2 to 3** for all the other PHP files
 
 ## PART 1 - Quick introduction to PHP
 
