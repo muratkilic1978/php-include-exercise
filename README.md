@@ -1,5 +1,6 @@
 # PHP exercise
 In this little PHP exercise, you will learn to use simple PHP commands. There are mainly two parts that you need to complete. In **PART 1** you will learn simple PHP commands that you will use later in **PART 2**. In **PART 2** you need to download the repository and try solve.
+
 **PART 1**
 1. Go through the Quick PHP introduction below
 **PART 2**
