@@ -1,18 +1,21 @@
 # PHP exercise
-In this little PHP exercise, you will learn to use simple PHP commands. For further help to accomplish this exercise I've created a quick introduction to important  PHP commands that you will use in this exercise.
-1. Download this repository
-2. Open **index.php** file with your editor
-3. I've inserted PHP comments with instructions that you should try to solve
-4. Repeat **step 3** for all the other PHP files
+In this little PHP exercise, you will learn to use simple PHP commands. There are mainly two parts that you need to complete. In **PART 1** you will learn simple PHP commands that you will use later in **PART 2**. In **PART 2** you need to download the repository and try solve.
+**PART 1**
+1. Go through the Quick PHP introduction below
+**PART 2**
+2. After completing step 1 - go and download this repository
+3. Next go and open **index.php** file with your editor (vscode or brackets)
+4. I've inserted PHP comments with instructions inside each PHP file that you should try to solve
+5. Repeat **step 4** for all the other PHP files
 
-# Quick introduction to PHP
+## PART 1 - Quick introduction to PHP
 
 This is a quick introduction to the programming language PHP
 
-## Create a new PHP-file
+### Create a new PHP-file
 Go and open your favorite text-editor (eg. Visual Studio Code or Brackets). Create a new file and save it as **index.php**
 
-## Write your first PHP code
+### Write your first PHP code
 
 Always when you want to write some PHP code you must start with **opening PHP tag** and **closing PHP tag**.  You must enter exactly like the example below:
 
@@ -22,7 +25,7 @@ Always when you want to write some PHP code you must start with **opening PHP ta
 ?>
 ```
 
-## Print out data to screen
+### Print out data to screen
 There are two ways that you can output data to the screen in PHP: **echo** or **print**. Remember that you must surround a string with either a *'single'* of *"double"* quotation mark. The closing tag of a block of PHP code automatically implies a *semicolon* **;** 
 ```php
 <?php 
@@ -31,7 +34,7 @@ There are two ways that you can output data to the screen in PHP: **echo** or **
 ?>
 ```
 
-## Storing information in PHP variables
+### Storing information in PHP variables
 
 Variables are "containers" for storing information. Creating variables in PHP, always begins with the **$** sign, followed by the **name** of the variable. In the example below I assign the variable **$firstname** a value by using the **=** character. PHP generally uses *semicolons* **;** to mark the end of a statement:
 ```php
@@ -40,7 +43,7 @@ Variables are "containers" for storing information. Creating variables in PHP, a
 ?>
 ```
 
-## Datatypes in PHP
+### Datatypes in PHP
 
 PHP supports different datatype.
 - An integer is a non-decimal number between -2,147,483,648 and 2,147,483,647
@@ -56,7 +59,7 @@ PHP supports different datatype.
 ?>
 ```
 
-## Comments in PHP
+### Comments in PHP
 PHP supports several ways of commenting:
 ```php
 <?php 
@@ -71,7 +74,7 @@ PHP supports several ways of commenting:
 ?>
 ```
 
-## PHP is case-sentative
+### PHP is case-sentative
 Case-sensitive means if you, for example, create a PHP variable (eg. *$Firstname*) where the first letter begins with an uppercase and another variable but with the same name, but this time all letters with lowercase (eg. *$firstname*), then PHP will recognize this as two different variables.".
 ```php
 <?php  
@@ -82,7 +85,7 @@ Case-sensitive means if you, for example, create a PHP variable (eg. *$Firstname
 ?>
 ```
 
-## PHP if-statement
+### PHP if-statement
 Conditional statements are used to perform different actions based on different conditions. The if statement executes some code inside the curly brackets if one condition is true.
 ```php
 <?php  
@@ -91,7 +94,7 @@ Conditional statements are used to perform different actions based on different 
 ?>
 ```
 
-## PHP if-else statement
+### PHP if-else statement
 The if...else statement executes some code if a condition is true and another code if that condition is false.
 ```php
 <?php  
@@ -103,7 +106,7 @@ The if...else statement executes some code if a condition is true and another co
 ?>
 ```
 
-## PHP date function
+### PHP date function
 The PHP date() function is used to format a date and/or a time.
 
 Here are some characters that are commonly used for dates:
@@ -122,9 +125,9 @@ Here are some characters that are commonly used for dates:
 ?>
 ```
 
-## PHP include function
+### PHP include function
 The **include** function in PHP takes all the text/code/markup that exists in the specified file and copies it into the file that uses the **include** function
-### Create a footer.php file
+#### Create a footer.php file
 Go and create a new PHP-file with your editor (eg- Brackets) and  name it **footer.php**. Insert the PHP-code below into the newly created **footer.php** file:
 ```php
 #footer.php file
@@ -133,7 +136,7 @@ echo "<p>Copyright &copy; 1999-" . date("Y") . " W3Schools.com</p>";
 ?>
 ```
 
-### Create a frontpage.php file
+#### Create a frontpage.php file
 Now finally go and create a new PHP-file with your editor (eg. Brackets) and name it **frontpage.php**. To include the **footer.php** file in this newly created **frontpage.php** file, use the include function in PHP:
 
 ```php
@@ -151,7 +154,7 @@ Now finally go and create a new PHP-file with your editor (eg. Brackets) and nam
 </html>
 ```
 
-## Learn more about PHP 
+### Learn more about PHP 
 If you want to learn more about PHP please check following websites:
 
 - [tutorialspoint](https://www.tutorialspoint.com/php/index.htm)
